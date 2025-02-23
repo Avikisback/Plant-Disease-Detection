@@ -19,7 +19,7 @@ app_mode = st.sidebar.selectbox("Select Page",["Home","Crop Disease Detecion"])
 #Home page
 if app_mode=="Home":
     
-    image_path = "E:/python/ml/cropskyofficial_logo.jpeg"
+    image_path = "cropskyofficial_logo.jpeg"
     st.image(image_path,use_container_width=True)
     st.markdown("""
     Welcome to Cropsky!
