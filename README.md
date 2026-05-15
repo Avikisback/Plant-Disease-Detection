@@ -84,4 +84,3 @@ This project uses the **New Plant Diseases Dataset** (Augmented).
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Developed by CropSky Team*
