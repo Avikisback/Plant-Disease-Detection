@@ -1,6 +1,6 @@
-# 🌱 CropSky - AI-Powered Crop Disease Detection
+# 🌱 DeepLeaf - AI-Powered Crop Disease Detection
 
-**CropSky** is a pioneering tech startup revolutionizing the agriculture industry with AI, robotics, drones, and IoT. This project is a core component of our mission: a deep learning-based system for detecting plant diseases from leaf images.
+**DeepLeaf** is a pioneering tech startup revolutionizing the agriculture industry with AI, robotics, drones, and IoT. This project is a core component of our mission: a deep learning-based system for detecting plant diseases from leaf images.
 
 ## 📌 Overview
 The goal of this project is to accurately detect plant diseases using Convolutional Neural Networks (CNNs). It utilizes the **New Plant Diseases Dataset** and implements a user-friendly web application using **Streamlit**. The system can identify 38 different classes of plant diseases and healthy leaves, providing instant diagnosis and expert recommendations for treatment.
